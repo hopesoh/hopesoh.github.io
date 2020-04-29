@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9fb50695-b06d-45c6-9c33-b2107550efef" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/cover.css" beforeDir="false" afterPath="$PROJECT_DIR$/_site/cover.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cover.css" beforeDir="false" afterPath="$PROJECT_DIR$/cover.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,17 +26,19 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CSS" value="3" />
+          <entry key="CSS" value="7" />
           <entry key="HTML" value="3" />
           <entry key="JavaScript" value="2" />
           <entry key="PLAIN_TEXT" value="2" />
+          <entry key="SVG" value="2" />
           <entry key="YAML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="23" />
-          <entry key="HTML" value="75" />
+          <entry key="CSS" value="126" />
+          <entry key="HTML" value="414" />
+          <entry key="SVG" value="5" />
           <entry key="YAML" value="55" />
         </counts>
       </usages-collector>
@@ -40,11 +46,34 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="16" column="63" selection-start-line="16" selection-start-column="63" selection-end-line="16" selection-end-column="63" />
+            <state relative-caret-position="323">
+              <caret line="64" column="8" lean-forward="true" selection-start-line="64" selection-start-column="8" selection-end-line="64" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/plugins/themify-icons/hackerrank-brands.svg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/plugins/themify-icons/themify-icons.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="12552" lean-forward="true" selection-start-column="12552" selection-end-column="12552" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="473" column="21" selection-start-line="473" selection-start-column="21" selection-end-line="473" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -52,8 +81,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cover.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+            <state relative-caret-position="296">
+              <caret line="121" column="2" lean-forward="true" selection-start-line="121" selection-start-column="2" selection-end-line="121" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -62,19 +91,40 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>ti-instagram</find>
-      <find>text-white</find>
-      <find>font-tert</find>
-      <find>margin-top</find>
-      <find>.h1</find>
-      <find>font-te</find>
-      <find>ml-5</find>
-      <find>mt-3</find>
+      <find>hero-a</find>
+      <find>terti</find>
+      <find>font-terti</find>
+      <find>container</find>
+      <find>row</find>
+      <find>hero-area</find>
+      <find>h1</find>
+      <find>fixed-top</find>
+      <find>navbar-expand-lg</find>
+      <find>img-fluid</find>
+      <find>ti-facebook</find>
+      <find>linkedin</find>
+      <find>email</find>
+      <find>her</find>
+      <find>git</find>
+      <find>list-unstyled</find>
       <find>position-relative</find>
-      <find>leaf-cy</find>
-      <find>font-</find>
-      <find>bootstrap.min.css</find>
+      <find>mb-3</find>
+      <find>zindex-1</find>
+      <find>ul</find>
+      <find>li</find>
+      <find>li</find>
+      <find>layer-bg</find>
+      <find>layer</find>
+      <find>list-uns</find>
+      <find>w-100</find>
+      <find>list-</find>
+      <find>hacker</find>
+      <find>fab</find>
+      <find>ti-instagram</find>
     </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -92,13 +142,14 @@
       <list>
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/cover.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/plugins/themify-icons/hackerrank-brands.svg" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="317" />
-    <option name="y" value="64" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="676" />
     <option name="width" value="697" />
     <option name="height" value="735" />
   </component>
@@ -114,6 +165,17 @@
               <item name="hopesoh.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="hopesoh.github.io" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="hopesoh.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hopesoh.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="plugins" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hopesoh.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hopesoh.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="plugins" type="462c0819:PsiDirectoryNode" />
+              <item name="themify-icons" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -123,11 +185,12 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1587498885583" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1588122518999" />
     <property name="last_opened_file_path" value="$USER_HOME$/Downloads/bootstrap-4.4.1/bootstrap-4.4.1/site/docs/4.4/examples/cover" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\hopes\Desktop\Importates\workspace\hopesoh.github.io\plugins\themify-icons" />
       <recent name="C:\Users\hopes\Desktop\Importates\workspace\hopesoh.github.io" />
     </key>
   </component>
@@ -160,7 +223,7 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12556732" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19062027" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -192,13 +255,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/plugins/themify-icons/themify-icons.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="12596" selection-start-column="12596" selection-end-column="12596" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/maps/style.css.map">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -223,20 +279,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="303" lean-forward="true" selection-start-line="303" selection-end-line="303" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cover.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/js/src/search.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
@@ -251,12 +293,36 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="16" column="63" selection-start-line="16" selection-start-column="63" selection-end-line="16" selection-end-column="63" />
+        <state relative-caret-position="17">
+          <caret line="473" column="21" selection-start-line="473" selection-start-column="21" selection-end-line="473" selection-end-column="21" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cover.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="121" column="2" lean-forward="true" selection-start-line="121" selection-start-column="2" selection-end-line="121" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/themify-icons/themify-icons.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12552" lean-forward="true" selection-start-column="12552" selection-end-column="12552" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="64" column="8" lean-forward="true" selection-start-line="64" selection-start-column="8" selection-end-line="64" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/themify-icons/hackerrank-brands.svg">
+      <provider selected="true" editor-type-id="images" />
     </entry>
   </component>
   <component name="masterDetails">

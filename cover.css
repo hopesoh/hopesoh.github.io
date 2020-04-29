@@ -26,15 +26,32 @@ a:hover {
  * Base structure
  */
 
+ /*  typography */
+ @import url("https://fonts.googleapis.com/css?family=Playfair+Display:400,700|Roboto:300,400,500,700");
+ @font-face {
+   font-family: 'BwNistaInt-xBd';
+   src: url("../plugins/fonts/BwNistaInt-xBd.woff") format("woff");
+   font-style: normal;
+   font-display: swap;
+ }
+
 html,
 body {
   height: 100%;
-  background-color: #333;
+  background-color: #41228e;
 }
 body {
   color: #fff;
-  text-align: center;
+  text-align: -webkit-match-parent;
   text-shadow: 0 1px 3px rgba(0, 0, 0, .5);
+}
+
+h1 {
+  font-family: "BwNistaInt-xBd" !important;
+}
+
+h1, .h1 {
+  font-size: 60px;
 }
 
 /* Extra markup and styles for table-esque vertical and horizontal centering */
@@ -43,8 +60,6 @@ body {
   width: 100%;
   height: 100%; /* For at least Firefox */
   min-height: 100%;
-  -webkit-box-shadow: inset 0 0 100px rgba(0, 0, 0, .5);
-  box-shadow: inset 0 0 100px rgba(0, 0, 0, .5);
 }
 .site-wrapper-inner {
   display: table-cell;
@@ -55,12 +70,55 @@ body {
   margin-left: auto;
 }
 
-/* Padding for spacing */
-.inner {
-  padding: 30px;
+.placeholders {
+  margin-bottom: 0px;
+  text-align: center;
+}
+.placeholder {
+  margin-bottom: 0px;
+}
+.placeholder img {
+  display: inline-block;
+  border-radius: 50%;
 }
 
+.hero-area {
+  position: relative;
+}
 
+.hero-area h1 {
+  position: relative;
+  z-index: 2;
+}
+
+.row {
+ margin-right: auto;
+ margin-left: auto;
+}
+
+/* Padding for spacing */
+
+.font-tertiary {
+  font-family: "BwNistaInt-xBd" !important;
+}
+
+/* Images */
+.layer-bg {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0px;
+  position: fixed;
+}
+
+.list-unstyled {
+  font-size: large;
+  padding-left: 20px;
+}
 /*
  * Header
  */
