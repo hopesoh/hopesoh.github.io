@@ -51,7 +51,7 @@ h1 {
 }
 
 h1, .h1 {
-  font-size: 60px;
+  font-size: 50px;
 }
 
 /* Extra markup and styles for table-esque vertical and horizontal centering */
@@ -76,10 +76,15 @@ h1, .h1 {
 }
 .placeholder {
   margin-bottom: 0px;
+  z-index: 2;
 }
 .placeholder img {
   display: inline-block;
   border-radius: 50%;
+  position: relative;
+  top: 50%;
+  left: 50%;
+  transform: translate(100%, -90%);
 }
 
 .hero-area {
@@ -118,6 +123,19 @@ ul {
 .list-unstyled {
   font-size: large;
   padding-left: 20px;
+  display: inline-flex;
+}
+
+.ti-hackerrank img{
+font-family:themify;
+speak:none;
+font-style:normal;
+font-weight:400;
+font-variant:normal;
+text-transform:none;
+line-height:1;
+-webkit-font-smoothing:antialiased;
+-moz-osx-font-smoothing:grayscale;
 }
 /*
  * Header
