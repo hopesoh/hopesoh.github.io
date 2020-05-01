@@ -4,8 +4,20 @@
     <list default="true" id="9fb50695-b06d-45c6-9c33-b2107550efef" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/cover.css" beforeDir="false" afterPath="$PROJECT_DIR$/_site/cover.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/images/progress-wave.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/images/user-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/images/user-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/images/user-3.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cover.css" beforeDir="false" afterPath="$PROJECT_DIR$/cover.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/images/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/progress-wave.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/user-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/user-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/user-3.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,9 +40,9 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CSS" value="7" />
+          <entry key="CSS" value="9" />
           <entry key="HTML" value="3" />
-          <entry key="Image" value="1" />
+          <entry key="Image" value="4" />
           <entry key="JavaScript" value="2" />
           <entry key="PLAIN_TEXT" value="2" />
           <entry key="SVG" value="2" />
@@ -39,8 +51,8 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="218" />
-          <entry key="HTML" value="752" />
+          <entry key="CSS" value="392" />
+          <entry key="HTML" value="812" />
           <entry key="SVG" value="5" />
           <entry key="YAML" value="55" />
         </counts>
@@ -52,8 +64,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="172">
-              <caret line="56" column="51" selection-start-line="56" selection-start-column="51" selection-end-line="56" selection-end-column="51" />
+            <state relative-caret-position="204">
+              <caret line="46" column="12" lean-forward="true" selection-start-line="46" selection-start-column="12" selection-end-line="46" selection-end-column="12" />
               <folding>
                 <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#a#0;n#li#0;n#a#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -69,8 +81,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cover.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="354">
-              <caret line="53" column="14" selection-start-line="53" selection-start-column="14" selection-end-line="53" selection-end-column="14" />
+            <state relative-caret-position="-323">
+              <caret line="94" column="17" selection-start-line="94" selection-start-column="17" selection-end-line="94" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="329">
+              <caret line="517" selection-start-line="517" selection-end-line="520" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -85,7 +106,6 @@
       <find>list-unstyled</find>
       <find>position-relative</find>
       <find>zindex-1</find>
-      <find>li</find>
       <find>li</find>
       <find>layer-bg</find>
       <find>layer</find>
@@ -103,11 +123,12 @@
       <find>fill</find>
       <find>img-flui</find>
       <find>layer-</find>
-      <find>ul</find>
       <find>img-fluid</find>
-      <find>img-responsive</find>
       <find>placeholder</find>
       <find>place</find>
+      <find>img-responsive</find>
+      <find>@m</find>
+      <find>r</find>
       <find>h1</find>
     </findStrings>
     <replaceStrings>
@@ -129,10 +150,10 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/_config.yml" />
-        <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/plugins/themify-icons/hackerrank-brands.svg" />
-        <option value="$PROJECT_DIR$/cover.css" />
+        <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/cover.css" />
       </list>
     </option>
   </component>
@@ -154,6 +175,11 @@
               <item name="hopesoh.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="hopesoh.github.io" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="hopesoh.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hopesoh.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -163,14 +189,16 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1588284992136" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1588294890085" />
     <property name="last_opened_file_path" value="$USER_HOME$/Downloads/bootstrap-4.4.1/bootstrap-4.4.1/site/docs/4.4/examples/cover" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\hopes\Desktop\Importates\workspace\hopesoh.github.io\images" />
       <recent name="C:\Users\hopes\Desktop\Importates\workspace\hopesoh.github.io" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\hopes\Desktop\Importates\workspace\hopesoh.github.io\images" />
       <recent name="C:\Users\hopes\Desktop\Importates\workspace\hopesoh.github.io\plugins\themify-icons" />
       <recent name="C:\Users\hopes\Desktop\Importates\workspace\hopesoh.github.io" />
     </key>
@@ -218,7 +246,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.25409836" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.16885246" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" />
@@ -269,30 +297,39 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="833">
-          <caret line="473" column="21" selection-start-line="473" selection-start-column="21" selection-end-line="473" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/plugins/themify-icons/hackerrank-brands.svg">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/favicon.ico.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/images/user-1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/progress-wave.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="517" selection-start-line="517" selection-end-line="520" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/cover.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="354">
-          <caret line="53" column="14" selection-start-line="53" selection-start-column="14" selection-end-line="53" selection-end-column="14" />
+        <state relative-caret-position="-323">
+          <caret line="94" column="17" selection-start-line="94" selection-start-column="17" selection-end-line="94" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="56" column="51" selection-start-line="56" selection-start-column="51" selection-end-line="56" selection-end-column="51" />
+        <state relative-caret-position="204">
+          <caret line="46" column="12" lean-forward="true" selection-start-line="46" selection-start-column="12" selection-end-line="46" selection-end-column="12" />
           <folding>
             <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#a#0;n#li#0;n#a#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />

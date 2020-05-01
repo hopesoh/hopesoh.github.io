@@ -48,10 +48,11 @@ body {
 
 h1 {
   font-family: "BwNistaInt-xBd" !important;
+  margin-top: -20px;
 }
 
 h1, .h1 {
-  font-size: 50px;
+  font-size: 60px;
 }
 
 /* Extra markup and styles for table-esque vertical and horizontal centering */
@@ -71,20 +72,28 @@ h1, .h1 {
 }
 
 .placeholders {
-  margin-bottom: 0px;
+  margin-bottom: 30px;
   text-align: center;
+  max-width: 45%;
+  max-height: 45%;
+  margin-left: 50%;
+  overflow: visible;
+}
+.placeholders h4 {
+  margin-bottom: 0;
 }
 .placeholder {
-  margin-bottom: 0px;
-  z-index: 2;
+  margin-bottom: -15px;
 }
 .placeholder img {
   display: inline-block;
   border-radius: 50%;
   position: relative;
-  top: 50%;
-  left: 50%;
-  transform: translate(100%, -90%);
+  z-index:2;
+  max-width: 315%;
+  max-height: 100%;
+  margin-top: -200%;
+  margin-left: 150%;
 }
 
 .hero-area {
@@ -112,6 +121,41 @@ h1, .h1 {
   position: fixed;
   bottom: 0;
   left: 0;
+}
+
+#l4 {
+  top: 200px;
+  right: 40%;
+  position: relative;
+  z-index: 2;
+}
+
+#l5 {
+  top: 25px;
+  right: -150px;
+  position: fixed;
+  z-index: 2;
+}
+
+#l7 {
+  bottom: 125px;
+  left: 20%;
+  position: relative;
+  z-index: 2;
+}
+
+#l8 {
+  bottom: -36px;
+  right: 45%;
+  position: relative;
+  z-index: 2;
+}
+
+#l9 {
+  bottom: 0px;
+  right: 0px;
+  position: fixed;
+  z-index: 2;
 }
 
 ul {
