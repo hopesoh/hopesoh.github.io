@@ -642,21 +642,23 @@ blockquote {
   min-width: 250px;
   margin-right: 10px;
   margin-bottom: 10px;
+  border-radius: 3px;
 }
 
 .github-card p {
-  font-size: 13px;
+  font-size: 12px;
 }
 
 .github-cards h3 {
  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
  margin-top: 0;
  color: #4078c0;
- font-size: 15px;
+ font-size: 14px;
 }
 
 .github-card h3:hover {
   text-decoration-line: underline;
+  font-weight: 600!important;
 }
 
 .github-card__meta {
