@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9fb50695-b06d-45c6-9c33-b2107550efef" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/portfolio-details.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/images/icons/hackerrank-brands.svg" beforeDir="false" afterPath="$PROJECT_DIR$/_site/images/icons/hackerrank-brands.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/maps/style.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/icons/hackerrank-brands.svg" beforeDir="false" afterPath="$PROJECT_DIR$/images/icons/hackerrank-brands.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,72 +20,69 @@
     <session id="-1790558513">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.43" value="1" />
-          <entry key="project.open.time.45" value="1" />
+          <entry key="project.open.time.45" value="2" />
           <entry key="project.open.time.54" value="1" />
           <entry key="project.open.time.55" value="1" />
-          <entry key="project.opened" value="6" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CSS" value="12" />
-          <entry key="HTML" value="4" />
+          <entry key="CSS" value="14" />
+          <entry key="HTML" value="5" />
           <entry key="Image" value="4" />
           <entry key="JavaScript" value="3" />
           <entry key="Markdown" value="1" />
           <entry key="PLAIN_TEXT" value="3" />
-          <entry key="SVG" value="11" />
+          <entry key="RNG Compact" value="1" />
+          <entry key="SVG" value="12" />
           <entry key="YAML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="727" />
-          <entry key="HTML" value="1624" />
+          <entry key="CSS" value="782" />
+          <entry key="HTML" value="1860" />
           <entry key="Markdown" value="83" />
-          <entry key="SVG" value="35" />
+          <entry key="SVG" value="40" />
           <entry key="YAML" value="55" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="292">
-              <caret line="159" lean-forward="true" selection-start-line="159" selection-end-line="159" />
+            <state relative-caret-position="155">
+              <caret line="716" column="26" selection-start-line="716" selection-start-column="26" selection-end-line="716" selection-end-column="26" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/css/style.css">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="226">
-              <caret line="655" column="17" lean-forward="true" selection-start-line="655" selection-start-column="17" selection-end-line="655" selection-end-column="17" />
+            <state relative-caret-position="68">
+              <caret line="246" column="7" lean-forward="true" selection-start-line="246" selection-start-column="7" selection-end-line="246" selection-end-column="7" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/icons/hackerrank-brands.svg">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
     </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>@m</find>
-      <find>r</find>
-      <find>h1</find>
-      <find>padding</find>
-      <find>300</find>
-      <find>hero-area</find>
-      <find>list-</find>
-      <find>300p</find>
-      <find>li</find>
       <find>mr-</find>
       <find>mb-</find>
       <find>list-unstyled</find>
@@ -101,6 +104,15 @@
       <find>section-titl</find>
       <find>80px</find>
       <find>github</find>
+      <find>bxl-skype</find>
+      <find>email</find>
+      <find>instagram</find>
+      <find>whi</find>
+      <find>linkedin</find>
+      <find>bxl-instagram&quot;</find>
+      <find>back</find>
+      <find>../img/hero-bg.jpg</find>
+      <find>background-colo</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -123,7 +135,6 @@
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/plugins/themify-icons/hackerrank-brands.svg" />
         <option value="$PROJECT_DIR$/cover.css" />
-        <option value="$PROJECT_DIR$/images/icons/hackerrank-brands.svg" />
         <option value="$PROJECT_DIR$/images/icons/github-brands.svg" />
         <option value="$PROJECT_DIR$/images/icons/envelope-regular.svg" />
         <option value="$PROJECT_DIR$/images/icons/instagram-brands.svg" />
@@ -137,6 +148,9 @@
         <option value="$PROJECT_DIR$/images/icons/circle-solid-jupyter.svg" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/portfolio-details.html" />
+        <option value="$PROJECT_DIR$/images/icons/hackerrank-brands.svg" />
+        <option value="$PROJECT_DIR$/assets/css/style.css" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
@@ -152,8 +166,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -172,16 +186,16 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\hopes\Desktop\Importates\workspace\hopesoh.github.io\images\icons" />
-      <recent name="C:\Users\hopes\Desktop\Importates\workspace\hopesoh.github.io" />
-      <recent name="C:\Users\hopes\Desktop\Importates\workspace\hopesoh.github.io\images" />
-      <recent name="C:\Users\hopes\Desktop\Importates\workspace\hopesoh.github.io\plugins\themify-icons" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\hopes\Desktop\Importates\workspace\hopesoh.github.io\images\icons" />
       <recent name="C:\Users\hopes\Desktop\Importates\workspace\hopesoh.github.io\images" />
       <recent name="C:\Users\hopes\Desktop\Importates\workspace\hopesoh.github.io" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\hopes\Desktop\Importates\workspace\hopesoh.github.io" />
+      <recent name="C:\Users\hopes\Desktop\Importates\workspace\hopesoh.github.io\images\icons" />
+      <recent name="C:\Users\hopes\Desktop\Importates\workspace\hopesoh.github.io\images" />
+      <recent name="C:\Users\hopes\Desktop\Importates\workspace\hopesoh.github.io\plugins\themify-icons" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -210,10 +224,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16414523" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16490166" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -227,7 +240,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.17540984" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.2704918" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" />
@@ -275,9 +288,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/plugins/themify-icons/hackerrank-brands.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/themify-icons/hackerrank-brands.svg" />
     <entry file="file://$PROJECT_DIR$/favicon.ico.png" />
     <entry file="file://$PROJECT_DIR$/images/user-1.jpg" />
     <entry file="file://$PROJECT_DIR$/images/logo.png" />
@@ -296,9 +307,6 @@
     <entry file="file://$PROJECT_DIR$/images/icons/github-brands.svg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/icons/hackerrank-brands.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/images/icons/instagram-brands.svg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -312,13 +320,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/cards.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/css/cards.css" />
     <entry file="file://$PROJECT_DIR$/images/icons/circle-solid-java.svg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -331,29 +333,43 @@
     <entry file="file://$PROJECT_DIR$/images/icons/circle-solid-jupyter.svg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="68">
-            <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-          </first_editor>
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
+    <entry file="file://$PROJECT_DIR$/README.md" />
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="655" column="17" lean-forward="true" selection-start-line="655" selection-start-column="17" selection-end-line="655" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portfolio-details.html" />
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/common.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-789">
+          <caret line="127" column="18" selection-start-line="127" selection-start-column="18" selection-end-line="127" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/icons/hackerrank-brands.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/assets/vendor/boxicons/css/boxicons.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-71249">
+          <caret line="703" column="17" lean-forward="true" selection-start-line="703" selection-start-column="17" selection-end-line="703" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="246" column="7" lean-forward="true" selection-start-line="246" selection-start-column="7" selection-end-line="246" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="292">
-          <caret line="159" lean-forward="true" selection-start-line="159" selection-end-line="159" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="655" column="17" lean-forward="true" selection-start-line="655" selection-start-column="17" selection-end-line="655" selection-end-column="17" />
+        <state relative-caret-position="155">
+          <caret line="716" column="26" selection-start-line="716" selection-start-column="26" selection-end-line="716" selection-end-column="26" />
         </state>
       </provider>
     </entry>
